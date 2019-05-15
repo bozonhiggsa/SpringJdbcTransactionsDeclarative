@@ -43,8 +43,6 @@
         <property name="jdbcTemplate" ref="jdbcTemplate"/>
     </bean>
 
-    <!--<aop:aspectj-autoproxy/>-->
-
     <tx:advice id="txAdvice">
         <tx:attributes>
             <tx:method name="create*" propagation="REQUIRED" isolation="SERIALIZABLE"/>

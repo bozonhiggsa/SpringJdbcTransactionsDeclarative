@@ -9,6 +9,11 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import java.util.List;
 
+/**
+ * Entry point
+ * @author Ihor Savchenko
+ * @version 1.0
+ */
 public class ApplicationRunner {
     public static void main(String[] args) {
         ApplicationContext context =

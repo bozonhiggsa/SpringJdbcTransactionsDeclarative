@@ -1,7 +1,9 @@
 package com.springApp.springJdbcTransactionsDeclar.model;
 
 /**
- * Created by Garik on 31.10.2017.
+ * Model Project
+ * @author Ihor Savchenko
+ * @version 1.0
  */
 public class Project {
     private Integer developersId;

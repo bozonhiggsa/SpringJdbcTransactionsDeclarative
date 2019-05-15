@@ -9,6 +9,11 @@ import org.springframework.jdbc.core.JdbcTemplate;
 
 import java.util.List;
 
+/**
+ * Implementation Developer DAO based on JdbcTemplate.
+ * @author Ihor Savchenko
+ * @version 1.0
+ */
 public class JdbcTemplateDeveloperDaoImpl implements DeveloperDao {
 
     private JdbcTemplate jdbcTemplate;

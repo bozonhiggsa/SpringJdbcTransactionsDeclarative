@@ -1,7 +1,9 @@
 package com.springApp.springJdbcTransactionsDeclar.dao;
 
 /**
- * Created by Garik on 31.10.2017.
+ * Interface for Project DAO
+ * @author Ihor Savchenko
+ * @version 1.0
  */
 public interface ProjectDao {
 

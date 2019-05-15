@@ -4,7 +4,9 @@ import com.springApp.springJdbcTransactionsDeclar.dao.ProjectDao;
 import org.springframework.jdbc.core.JdbcTemplate;
 
 /**
- * Created by Garik on 31.10.2017.
+ * Implementation Project DAO based on JdbcTemplate
+ * @author Ihor Savchenko
+ * @version 1.0
  */
 public class JdbcTemplateProjectDaoImpl implements ProjectDao {
 

@@ -2,6 +2,11 @@ package com.springApp.springJdbcTransactionsDeclar.model;
 
 import java.util.List;
 
+/**
+ * Model Developer
+ * @author Ihor Savchenko
+ * @version 1.0
+ */
 public class Developer {
     private Integer id;
     private String name;
