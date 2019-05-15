@@ -1,4 +1,4 @@
-# Examples Spring Jdbc and Transactions
+# Examples Spring Jdbc and Declarative Transactions
 
 Basic examples for Spring Jdbc, using JdbcTemplate, Transactions and DB MySQL
 
